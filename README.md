@@ -1,5 +1,7 @@
 # Tabby
 
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
+
 **Split bills with friends. No signup, no ads, no daily limits. Settle up with UPI in one tap.**
 
 **Live:** https://tabby.amanjhavdjs12tha.workers.dev
@@ -78,3 +80,11 @@ Like Tricount, a group's link is its password: whoever holds it can read and edi
 unguessable, group pages send `noindex`, and `/g/` is disallowed in `robots.txt`. There are no accounts,
 so there is no per-user authorization or audit trail beyond the "added by" label (which is
 self-reported).
+
+## License
+
+Tabby is free and open-source software, licensed under the **GNU Affero General Public License v3.0 or later** ([AGPL-3.0-or-later](LICENSE)).
+
+You can use, study, share and modify it for any purpose, including commercially. If you distribute a modified version, **or run one as a service that others use over a network**, you must publish your changes under the same license so the community benefits too.
+
+Copyright © 2026 Aman Jha
