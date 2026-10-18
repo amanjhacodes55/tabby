@@ -2,6 +2,8 @@
 
 **Split bills with friends. No signup, no ads, no daily limits. Settle up with UPI in one tap.**
 
+**Live:** https://tabby.amanjhavdjs12tha.workers.dev
+
 Splitwise now caps how many expenses free users can add per day and shows ads, every friend has to
 sign up, and in India everyone actually settles over UPI — which Splitwise has no flow for. Tabby is
 the link-based alternative: create a group, share the link, and pay each other with a `upi://` deep
