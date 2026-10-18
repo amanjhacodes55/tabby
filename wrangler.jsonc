@@ -14,7 +14,7 @@
       "binding": "DB",
       "database_name": "tabby",
       // Run `npx wrangler d1 create tabby` and paste the returned id here.
-      "database_id": "REPLACE_WITH_D1_ID",
+      "database_id": "aad137f1-10a2-48d8-874c-17eac61329ef",
       "migrations_dir": "migrations"
     }
   ]
