@@ -331,6 +331,11 @@ To report a vulnerability, see [SECURITY.md](SECURITY.md).
 Issues and pull requests are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, checks and
 the PR checklist.
 
+## Support
+
+Tabby is free and open source. If it saves you time or money, you can **buy me a coffee** ☕ over UPI
+(Google Pay, PhonePe, Paytm, BHIM) at **+91 8941951465**. Starring the repository helps too.
+
 ## License
 
 Tabby is free and open-source software, licensed under the **GNU Affero General Public License v3.0 or later** ([AGPL-3.0-or-later](LICENSE)).
